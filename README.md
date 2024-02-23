@@ -1,10 +1,10 @@
 # Railway-Ticket-Booking-Management-System
 
-#Project Title: Railway Ticket Booking System
-#Overview:
+Project Title: Railway Ticket Booking System
+Overview:
 This project aims to provide users with a platform to conveniently book railway tickets. It's built using Core Java concepts and follows Object-Oriented Programming principles for a modular and extensible design.
 
-#Features:
+Features:
 User Registration and Login: Users can create accounts and log in securely.
 Search and Book Tickets: Users can search for trains based on source, destination, date, etc., and book tickets for their desired journey.
 Ticket Management: Functionality to view booked tickets, cancel tickets, and edit booking status.
